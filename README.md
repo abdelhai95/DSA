@@ -1,20 +1,23 @@
-# DSA
-- Welcome to your ultimate Data structures and algorithms repository.
-- You will find all data structures and algorithms code both in Python and JavaScript + Solutions to common interview questions about the specific subject.
-- I have another repository that contains [leetcode problem solutions](https://github.com/abdelhai95/DSA_Practice) with explanations for more practice.
+# DSA Repository
 
+## Welcome
+
+Welcome to your ultimate Data Structures and Algorithms (DSA) repository!
+
+This repository houses a comprehensive collection of code samples for various data structures and algorithms, presented in both Python and JavaScript. Additionally, you'll find solutions to common interview questions related to each specific subject.
 
 ## Usage
 
-Feel free to use it as you like.
+Feel free to explore, use, and adapt the code samples to enhance your understanding of DSA concepts. Whether you're a student, professional, or coding enthusiast, this repository is designed to support your learning journey.
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Contributions are welcome! If you have improvements, additional code samples, or corrections to offer, please open an issue to discuss changes or submit a pull request.
 
+## More Practice
 
+For additional practice, check out my [LeetCode problem solutions repository](https://github.com/abdelhai95/DSA_Practice), which includes detailed explanations for problem-solving approaches.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). Feel free to use and adapt the code for your educational and personal projects.
