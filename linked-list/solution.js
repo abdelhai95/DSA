@@ -33,10 +33,10 @@ class SinglyLinkedList{
     pop() {
         if(! this.length) return -1;
         let temp = this.head;
-        let preLastElement, popedElement;
+        let popedElement;
         while(temp) {
             if(temp.next === this.tail) {
-                preLastElement = temp;
+               const preLastElement = temp;
                 popedElement = this.tail;
                 preLastElement.next = null;
                 this.tail = preLastElement;
@@ -45,7 +45,7 @@ class SinglyLinkedList{
         }
 
         this.length--;
-        return popedElement;
+        return popedElement.val;
     }
 }
 
