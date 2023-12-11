@@ -1,12 +1,12 @@
 # DSA
-DSA is a folder that contains Data Structures and Algorithms code for many algorithms and data structures written in JavaScript.
-
-I would love to see other variations of these algorithms.
+- Welcome to your ultimate Data structures and algorithms repository.
+- You will find all data structures and algorithms code both in Python and JavaScript + Solutions to common interview questions about the specific subject.
+- I have another repository that contains [leetcode problem solutions](https://github.com/abdelhai95/DSA_Practice) with explanations for more practice.
 
 
 ## Usage
 
-The code is available for all usage kinds whether by copying or downloading.
+Feel free to use it as you like.
 
 ## Contributing
 
